@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabiomirandaa&label=Profile%20views&color=0e75b6&style=flat" alt="fabiomirandaa" /> </p>
 
-<p align="left"> <a href="https://twitter.com/fabiomirandadev" target="blank"><img src="https://img.shields.io/twitter/follow/fabiomirandadev?logo=twitter&style=for-the-badge" alt="fabiomirandadev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/saganistas" target="blank"><img src="https://img.shields.io/twitter/follow/fabiomirandadev?logo=twitter&style=for-the-badge" alt="fabiomirandadev" /></a> </p>
 
-- 🔭 I’m currently working on [Shift](https://shift.com.br/)
+- 🔭 I’m currently working on [Itaú](https://itaú.com.br/)
 
 - 🌱 I’m currently learning **Flutter**
 
